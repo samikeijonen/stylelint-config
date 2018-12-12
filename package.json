@@ -1,0 +1,39 @@
+{
+	"name": "@foxland/stylelint-config",
+	"version": "1.0.0",
+	"description": "Foxland stylelint config for WordPress projects",
+	"main": "index.js",
+	"homepage": "https://github.com/samikeijonen/stylelint-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/samikeijonen/stylelint-config.git"
+	},
+	"keywords": [
+		"stylelint",
+		"stylelint-config",
+		"wordpress",
+		"coding-standards",
+		"foxland"
+	],
+	"peerDependencies": {
+		"stylelint": "^9.9.0"
+	},
+	"files": [
+		"index.js"
+	],
+	"author": {
+		"name": "Sami Keijonen",
+		"email": "sami.keijonen@foxnet.fi",
+		"url": "https://foxland.fi",
+		"role": "developer"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/samikeijonen/stylelint-config/issues"
+	},
+	"devDependencies": {
+		"stylelint": "^9.9.0",
+		"stylelint-a11y": "^1.1.9",
+		"stylelint-config-wordpress": "^13.1.0"
+	}
+}
