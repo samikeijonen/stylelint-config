@@ -31,7 +31,7 @@
 	"bugs": {
 		"url": "https://github.com/samikeijonen/stylelint-config/issues"
 	},
-	"devDependencies": {
+	"dependencies": {
 		"stylelint": "^9.9.0",
 		"stylelint-a11y": "^1.1.9",
 		"stylelint-config-wordpress": "^13.1.0"
