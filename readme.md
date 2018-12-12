@@ -16,7 +16,7 @@ npm install stylelint --save-dev
 yarn add stylelint
 ```
 
-Then install the Foxland Stylelint config:
+Then install the Foxland stylelint config:
 ```
 // NPM
 npm install @foxland/stylelint-config --save-dev
@@ -28,9 +28,6 @@ Add the following to your `.stylelintrc` file:
 
 ```js
 {
-  "plugins": [
-    "@foxland/stylelint-config"
-  ]
+	"extends": "@foxland/stylelint-config"
 }
-
 ```

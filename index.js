@@ -4,7 +4,7 @@ module.exports = {
 	extends: "stylelint-config-wordpress",
 	plugins: [
 		"stylelint-a11y"
-	  ],
+	],
 	rules: {
 		"at-rule-empty-line-before": null,
 		"at-rule-no-unknown": null,
