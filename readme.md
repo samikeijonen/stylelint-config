@@ -19,7 +19,7 @@ yarn add stylelint
 Then install the Foxland Stylelint config:
 ```
 // NPM
-npm install @Foxland/stylelint-config --save-dev
+npm install @foxland/stylelint-config --save-dev
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ Add the following to your `.stylelintrc` file:
 ```js
 {
   "plugins": [
-    "@Foxland/stylelint-config"
+    "@foxland/stylelint-config"
   ]
 }
 
