@@ -16,7 +16,7 @@
 		"foxland"
 	],
 	"peerDependencies": {
-		"stylelint": "^9.10.0"
+		"stylelint": "~9.0"
 	},
 	"files": [
 		"index.js"
@@ -31,7 +31,7 @@
 	"bugs": {
 		"url": "https://github.com/samikeijonen/stylelint-config/issues"
 	},
-	"dependencies": {
+	"devDependencies": {
 		"stylelint": "^9.10.1",
 		"stylelint-a11y": "^1.1.10",
 		"stylelint-config-wordpress": "^13.1.0",
