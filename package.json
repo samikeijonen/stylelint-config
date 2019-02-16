@@ -16,7 +16,7 @@
 		"foxland"
 	],
 	"peerDependencies": {
-		"stylelint": "~9.0"
+		"stylelint": "^9.10.1"
 	},
 	"files": [
 		"index.js"
