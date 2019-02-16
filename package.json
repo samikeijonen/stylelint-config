@@ -1,6 +1,6 @@
 {
 	"name": "@foxland/stylelint-config",
-	"version": "1.0.3",
+	"version": "1.1.0",
 	"description": "Foxland stylelint config for WordPress projects",
 	"main": "index.js",
 	"homepage": "https://github.com/samikeijonen/stylelint-config#readme",
@@ -32,8 +32,9 @@
 		"url": "https://github.com/samikeijonen/stylelint-config/issues"
 	},
 	"dependencies": {
-		"stylelint": "^9.10.0",
-		"stylelint-a11y": "^1.1.9",
-		"stylelint-config-wordpress": "^13.1.0"
+		"stylelint": "^9.10.1",
+		"stylelint-a11y": "^1.1.10",
+		"stylelint-config-wordpress": "^13.1.0",
+		"stylelint-order": "^2.0.0"
 	}
 }

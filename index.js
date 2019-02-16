@@ -3,7 +3,8 @@
 module.exports = {
 	extends: "stylelint-config-wordpress",
 	plugins: [
-		"stylelint-a11y"
+		"stylelint-a11y",
+		"stylelint-order"
 	],
 	rules: {
 		"at-rule-empty-line-before": null,
