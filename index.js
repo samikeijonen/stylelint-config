@@ -20,5 +20,6 @@ module.exports = {
 		"a11y/no-display-none": [true, { "severity": "warning" }],
 		"a11y/no-obsolete-element": [true, { "severity": "warning" }],
 		"a11y/no-text-align-justify": [true, { "severity": "warning" }],
+		"order/properties-alphabetical-order": true,
 	}
 };
