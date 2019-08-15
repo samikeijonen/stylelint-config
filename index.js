@@ -12,6 +12,7 @@ module.exports = {
 		"comment-empty-line-before": null,
 		"declaration-no-important": true,
 		"function-url-quotes": 'always',
+		"no-descending-specificity": [true, { "severity": "warning" }],
 		"rule-empty-line-before": null,
 		"a11y/no-outline-none": true,
 		"a11y/selector-pseudo-class-focus": true,
