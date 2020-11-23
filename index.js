@@ -14,6 +14,7 @@ module.exports = {
 		"function-url-quotes": 'always',
 		"no-descending-specificity": [true, { "severity": "warning" }],
 		"rule-empty-line-before": null,
+		"selector-class-pattern": null,
 		"a11y/no-outline-none": true,
 		"a11y/selector-pseudo-class-focus": true,
 		"a11y/font-size-is-readable": [true, { "severity": "warning" }],
