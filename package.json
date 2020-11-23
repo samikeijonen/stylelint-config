@@ -1,6 +1,6 @@
 {
 	"name": "@foxland/stylelint-config",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"description": "Foxland stylelint config for WordPress projects",
 	"main": "index.js",
 	"homepage": "https://github.com/samikeijonen/stylelint-config#readme",
